@@ -26,3 +26,4 @@ Resources and notes for the Zero to Mastery [Complete Python Developer course](h
 - Where to Go from Here
 - Bonus: Extra Bits
 - Bonus: HTML Forms
+- Bonus: Python Exceptions
